@@ -1,0 +1,41 @@
+
+/****************************************************************
+*
+*
+*        СТИЛИ ДЛЯ ЭКРАНОВ ДО 320px
+*
+*
+****************************************************************/
+
+
+
+
+
+
+
+
+@media screen and (max-width: 250px) {
+	.mix-container{
+		min-height: 250px;
+	}
+
+}/*end @m*/ 
+
+
+
+@media screen and (max-width: 319px) {
+
+.promo-slider__item-subheader {
+	width: 190px;
+	display: block;
+	margin: 0 auto;
+}
+
+
+
+
+.customers-logo__image-wrapper {
+	width: 100%;
+}
+
+}/*end @m*/ 
