@@ -207,6 +207,7 @@ Promo-slider
 	text-align: center;
 	height: 163px;
 	padding-top: 78px;
+	min-width: 320px;
 }
 .promo-slider__pagination-item {
 	display: inline-block;
@@ -336,6 +337,7 @@ Reviews slider
 	padding-top: 70px;
 	padding-left: 6.25%; /*20/320*/
 	padding-right: 6.25%; /*20/320*/
+	min-width: 	320px;
 
 }
 .reviews-slider__item {
@@ -426,6 +428,7 @@ Resent Updates
     padding: 2px;
     padding-bottom: 88px;
     margin-top: 1px;
+    min-width: 320px;	
 }
 
 .updates__header {
@@ -518,6 +521,7 @@ Customers logo
 	padding-top: 51px;
 	padding-bottom: 0px;
 	border-top: 1px solid #fefefe;
+	min-width: 	320px;
 }
 
 .customers-logo__image-wrapper {
